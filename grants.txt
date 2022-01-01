@@ -1,0 +1,17 @@
+OE Tier 2 Grant, “Learning in MEG/EEG imaging-- from localization to behavior prediction”, National University of Singapore, PI, 2021-2024.
+
+MOE Tier 1 Grant, “Principal Boundary on Riemannian Manifolds II”, National University of Singapore, PI, 2019-2022.
+
+RSB Tier 1 Grant, “Synergy Project: Uncertainty Quantification in Biosensor Problem”, National University of Singapore, PI, 2017-2020.
+
+MOE Tier 1 Grant, “Principal Sub-manifolds and Classification Problems”, National University of Singapore, PI, 2017-2020.
+
+MOE Tier 2 Grant, “Magnetoencephalography (MEG) Inverse Problem”, National University of Singapore, PI, 2017-2020.
+
+Start-up Grant, “Modern Statistical Methods for Complex Data”, National University of Singapore, PI, 2014-2017.
+
+NSF Award SES-1061387, “A Realtime Statistical Approach to the Inverse problem in Magnetoencephalography by CUDA Computing”, Co-PI (student must be a Co-PI), USA, 2011-2012.
+
+Fellowship Award in Multimodal Neuroimaging Training Program, National Institutes of Health (NIH), USA, 2008-2009.
+
+ 
